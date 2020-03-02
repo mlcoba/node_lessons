@@ -1,0 +1,13 @@
+zjištení verze Node: příkazový řádek - node -v
+
+vytvoření souboru: ve složce - Nový - textový soubor - název_souboru.js
+
+vytvoření aplikace v Node: příkazový řádek - cesta k JS souboru (COPY PATH v VC) - napsat npm init - ENTER (odenterovat vše)
+
+spuštění souboru: node nazev_souboru.js
+
+spuštění programu ve vývojovém módu: npm install -g nodemon // udělat jen jednou - spuštění nodemon název_souboru.js
+
+
+
+
