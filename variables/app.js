@@ -1,4 +1,4 @@
-let number_1 = 1;
+let number_1 = 2;
 let string_1 = "ahoj"; // promenna, ktera se bude po dobu behu menit - LET
 
 console.log(number_1);
